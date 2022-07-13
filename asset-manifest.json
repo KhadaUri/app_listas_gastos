@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/app_listas_gastos/static/css/main.a1717fe8.css",
+    "main.js": "/app_listas_gastos/static/js/main.b77e59f3.js",
+    "static/media/logo.png": "/app_listas_gastos/static/media/logo.cad1b2740967cf7ef671.png",
+    "static/media/puntos.svg": "/app_listas_gastos/static/media/puntos.d72c308a0dc2666aaf56e6291b6fea60.svg",
+    "static/media/registro.svg": "/app_listas_gastos/static/media/registro.f1b62ba1f61a9d4d7367b39053be7ba4.svg",
+    "static/media/login.svg": "/app_listas_gastos/static/media/login.cf55a31870cae2c8dd34636f5c960839.svg",
+    "static/media/cat_diversion.svg": "/app_listas_gastos/static/media/cat_diversion.23473adbcfc0efa5e97c5a1d2be58c19.svg",
+    "static/media/cat_transporte.svg": "/app_listas_gastos/static/media/cat_transporte.a18d93ac45f078f53b79a6d27fc81a44.svg",
+    "static/media/cat_cuentas-y-pagos.svg": "/app_listas_gastos/static/media/cat_cuentas-y-pagos.b2c196bc962835cb96a86ecf4b61dd3d.svg",
+    "static/media/cat_salud-e-higiene.svg": "/app_listas_gastos/static/media/cat_salud-e-higiene.9f70187c214264e5a1575a0e4db90685.svg",
+    "static/media/cat_compras.svg": "/app_listas_gastos/static/media/cat_compras.39b530742a4ec1c7cf4b91e5510d8504.svg",
+    "static/media/cat_comida.svg": "/app_listas_gastos/static/media/cat_comida.f0ce46ae9f3c17bbbdbb976db2605ad2.svg",
+    "static/media/cat_ropa.svg": "/app_listas_gastos/static/media/cat_ropa.9efafd0ab2c39c833d21fb9add853c0f.svg",
+    "index.html": "/app_listas_gastos/index.html",
+    "static/media/cat_hogar.svg": "/app_listas_gastos/static/media/cat_hogar.2fde21eb70d91ea0f709c6c9445c6fbd.svg",
+    "static/media/flecha.svg": "/app_listas_gastos/static/media/flecha.8f8de552ac15c17d7dbc74d161226fae.svg",
+    "static/media/borrar.svg": "/app_listas_gastos/static/media/borrar.7e2a977d507c0074275fb080e7b610aa.svg",
+    "static/media/editar.svg": "/app_listas_gastos/static/media/editar.7ccbadc46e73fc6b758d4e23b1a398d3.svg",
+    "static/media/log-out.svg": "/app_listas_gastos/static/media/log-out.9fbf96f06c598755e87e4fa24ae82a24.svg",
+    "static/media/plus.svg": "/app_listas_gastos/static/media/plus.18e46bbfa44de388026c38f00afdd67b.svg",
+    "static/media/down.svg": "/app_listas_gastos/static/media/down.10bebdef5f58b59a8596c0818c4f27a0.svg",
+    "main.a1717fe8.css.map": "/app_listas_gastos/static/css/main.a1717fe8.css.map",
+    "main.b77e59f3.js.map": "/app_listas_gastos/static/js/main.b77e59f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1717fe8.css",
+    "static/js/main.b77e59f3.js"
+  ]
+}
